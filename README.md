@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ryuho 👋
+Aspiring Data Analyst → Future Data Scientist
+Python | SQL | Pandas | Data Visualization
 
-<!--
-**ryuho-kajiyama/ryuho-kajiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Background in Physics
+- Learning Python, SQL, and Data Analysis
+- Aiming to become a Data Scientist in Europe
+- Currently building projects and practicing on Kaggle
 
-Here are some ideas to get you started:
+## Skills
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (Joins, Group By, Subqueries)
+- **Data Cleaning & Preparation**
+- **Exploratory Data Annlysis (EDA)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- (Coming soon) Sales Analysis
+- (Coming soon) Customer Segmentation
+- (Coming soon) Airbnb Price Analysis
+
+## Learning Journey
+- Completed Python, Pandas, Data Viz, SQL on Kaggle
+- Practicing real datasets and improving SQL skill
+- Starting portfolio projects now
+
+  ## Contact
+  - **Email:** kumagorou.ryuho@icloud.com
