@@ -25,4 +25,5 @@ Python | SQL | Pandas | Data Visualization
 - Starting portfolio projects now
 
   ## Contact
-  - **Email:** kumagorou.ryuho@icloud.com
+  - **Email:** kumagorou.ryuho@gmail.com
+  - **Linkedin** https://www.linkedin.com/in/ryuho-kajiyama-979205362/
