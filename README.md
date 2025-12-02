@@ -15,11 +15,7 @@ Python | SQL | Pandas | Data Visualization
 - **Exploratory Data Annlysis (EDA)**
 
 ## Projects
-projects/
-    superstore-sales/
-        data/
-        superstore_analysis.iphnb
-        README.md
+projects/superstore-sales/data/superstore_analysis.iphnb/README.md
 
 ## Learning Journey
 - Completed Python, Pandas, Data Viz, SQL on Kaggle
