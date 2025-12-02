@@ -18,7 +18,7 @@ Python | SQL | Pandas | Data Visualization
 projects/
     superstore-sales/
         data/
-        superstore_analysis.iphnb
+        superstore_analysis.ipynb
 README.md
 
 ## Learning Journey
