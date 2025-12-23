@@ -15,7 +15,9 @@ Python | SQL | Pandas | Data Visualization
 - **Exploratory Data Annlysis (EDA)**
 
 ## Projects
-- Superstore Sales data
+- Food Delivery Time dataset
+- Credit Risk dataset
+- Superstore Sales dataset
 
 ## Learning Journey
 - Completed Python, Pandas, Data Viz, SQL on Kaggle
