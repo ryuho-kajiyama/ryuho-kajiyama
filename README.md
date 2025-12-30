@@ -9,7 +9,7 @@ Python | SQL | Pandas | Data Visualization
 - Currently building projects and practicing on Kaggle
 
 ## Skills
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** (Pandas, Matplotlib, Seaborn)
 - **SQL** (Joins, Group By, Subqueries)
 - **Data Cleaning & Preparation**
 - **Exploratory Data Annlysis (EDA)**
