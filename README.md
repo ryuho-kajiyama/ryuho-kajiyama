@@ -13,6 +13,7 @@ Python | SQL | Pandas | Data Visualization
 - **SQL** (Joins, Group By, Subqueries)
 - **Data Cleaning & Preparation**
 - **Exploratory Data Annlysis (EDA)**
+- **Dashboarding Tool**: Power BI, Looker Studio
 
 ## Projects
 - Food Delivery Time dataset
@@ -20,9 +21,8 @@ Python | SQL | Pandas | Data Visualization
 - Superstore Sales dataset
 
 ## Learning Journey
-- Completed Python, Pandas, Data Viz, SQL on Kaggle
-- Practicing real datasets and improving SQL skill
-- Starting portfolio projects now
+- Built three portfolio projects using real world datasets
+- Looking for job opportunities to demonstrate my skills
 
   ## Contact
   - **Email:** kumagorou.ryuho@gmail.com
